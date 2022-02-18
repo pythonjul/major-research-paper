@@ -13,7 +13,7 @@
 
 ---
 
-<p align = "center">💡 In 2020-21, I have analysed different Covid-19 model</p>
+<p align = "center">💡 In 2020-21, I have analysed different Covid-19 models.</p>
 
 
 
